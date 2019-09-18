@@ -3,8 +3,8 @@ close all;
 clc;
 %foldernames
 probenms = {'Untransfected','EGFP-C1','GFP-Tubulin','EMTB-3xGFP','Mn1+2+1+2','Dynein 2219','Kif5c'};
-pathname = '/Volumes/Mark_Data/Data Files/Organelle Movement/HeLaM/Transmitted Light/';
-foldername = 'HeLaM Transmitted MT Probes Exp ';
+pathname = '/Path/';
+foldername = 'Folder Name';
 %set nm per pixel
 lengthScale = 70e3/270;
 %set the s per frame
